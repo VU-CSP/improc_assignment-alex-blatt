@@ -9,10 +9,10 @@ You can [download FIJI here](https://fiji.sc)
 #### *Task 1:*
 Answer the following questions about the [Phase contrast](image_files/PhaseContrast.tif) and [Differential interference contrast](image_files/DifferentialInterference.tif) images:
 Q1) What is the maximum intensity value in the [Differential interference contrast](image_files/DifferentialInterference.tif) file? 
-A1) Put your answer here. The maximum intensity value is 
+A1) Put your answer here. The maximum intensity value is 255.
 
 Q2) What are the dimensions of the [Phase contrast](image_files/PhaseContrast.tif) file?  
-A2) Put your answer here in the form of (X, Y, BitDepth).  
+A2) Put your answer here in the form of (X, Y, BitDepth). X=
 
 Q3) Which image has greater dynamic range of pixel intensities? Phase or DiffInt?  
 A3) Put your answer here.  
